@@ -48,5 +48,5 @@ if (!is_null($events['events'])) {
 		}
 	}
 }
-echo $access_token;
+// echo $access_token;
 echo "OK";
